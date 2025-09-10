@@ -1,4 +1,4 @@
-![Sep-10-2025 18-30-10](https://github.com/user-attachments/assets/cc1d756a-2c16-4c8a-a866-20085e9fedc8)# Car Rental App 🚗✨
+## Car Rental App 🚗✨
 
 This project is a car rental application developed using **Next.js**. Payment processing is implemented via **Stripe**, and all bookings can be viewed in the **Orders** section.
 
